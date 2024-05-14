@@ -1,0 +1,14 @@
+{
+  "name": "test-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dummy": "node ./simulate-script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@chainlink/functions-toolkit": "^0.2.8"
+  }
+}
